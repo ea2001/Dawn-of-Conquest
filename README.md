@@ -1,4 +1,4 @@
-# Orb-Drop
+# Orb-Drop briefing
 Hey guys, this is the Orb-Drop repository...
 Basically we can add in branches, the main branch is called
 "Master" which will have all the main stuff and final stuff
@@ -15,3 +15,6 @@ it's really good.
 
 Read this if you haven't
 https://guides.github.com/activities/hello-world/
+
+I hope it tells you who posted this so if it didn't
+then it's Ehte...
