@@ -20,6 +20,9 @@ Instead of just earning money we get
 - There'll be two main stats that will measure how much your town
 earns and what your main town score is.
 
+Concept for artwork for Pre-alpha version
+https://gyazo.com/cf1296f377df20423b3db1b01127c31e
+
 The computer will randomly generate battles
 during the week which will effect your soldiers,
 weapon stash and defence gains.
