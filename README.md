@@ -24,6 +24,8 @@ The computer will randomly generate battles
 during the week which will effect your soldiers,
 weapon stash and defence gains.
 
+
+
 Watch this 20 minute tutorial 
 https://www.youtube.com/watch?v=0fKg7e37bQE&nohtml5=False&ab_channel=LearnCode.academy 
 it's really good.
